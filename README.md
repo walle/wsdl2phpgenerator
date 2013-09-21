@@ -1,4 +1,7 @@
 # wsdl2phpgenerator
+
+The main repository have been moved to [wsdl2phpgenerator/wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator)
+
 [![Build Status](https://travis-ci.org/reload/wsdl2phpgenerator.png?branch=master)](https://travis-ci.org/reload/wsdl2phpgenerator)
 [![Coverage Status](https://coveralls.io/repos/reload/wsdl2phpgenerator/badge.png?branch=code-coverage-coveralls)](https://coveralls.io/r/reload/wsdl2phpgenerator?branch=code-coverage-coveralls)
 
